@@ -1,4 +1,4 @@
-# QR-CODE-GENERATIONN
+# QR-CODE-GENERATION
 This project generates a QR code with a custom logo placed in the center,
 ensuring the code remains scannable while adding a personalized touch. 
 Features Generates a QR code with a URL or custom data. 
